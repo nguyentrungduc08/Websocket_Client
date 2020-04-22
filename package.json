@@ -1,0 +1,20 @@
+{
+  "name": "wss-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "Duc Trung Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "nodemon": "^2.0.3"
+  }
+}
